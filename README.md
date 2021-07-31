@@ -33,9 +33,9 @@ Triggers are connections between parameters and are used to transition between c
 
 USEFUL LINKS:
 
-GITHUB link: https://github.com/Richag2/Richag2.github.io
+GITHUB link: https://github.com/Richag2/DrugOverdoseDeathsInUS
 
-URL to the visualization: URL - https://richag2.github.io/#
+URL to the visualization: https://richag2.github.io/DrugOverdoseDeathsInUS/
 
 Dataset link: https://www.cdc.gov/drugoverdose/deaths/index.html
 
